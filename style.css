@@ -1,0 +1,15 @@
+.topbar {
+    background-color: #4E6E58;
+}
+
+.content {
+    background-color: #C6D8D3;
+    width: 1152px;
+    max-width: 100%;
+    min-height: 100vh;
+    margin: 0 auto;
+}
+
+.content section {
+    padding: 20px;
+}
